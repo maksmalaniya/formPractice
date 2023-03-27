@@ -1,0 +1,14 @@
+@import url('reset.css');
+
+.wrapper {
+    
+}
+
+.container {
+    width: 340px;
+}
+
+p {
+    font-family: 'Roboto';
+    font-size: 15px;
+}
